@@ -1,4 +1,4 @@
-# 🎬 yt-dlp Captioned Clipper
+# yt-dlp-clipper
 
 A command-line tool to **download YouTube videos**, **trim clips**, and **automatically generate & burn animated subtitles** using [Whisper AI](https://github.com/openai/whisper).  
 Supports custom time ranges, video quality selection, and multiple subtitle languages.
@@ -79,15 +79,5 @@ Supports custom time ranges, video quality selection, and multiple subtitle lang
 | quality | Video quality                                          | `quality=720p`   |
 | subs    | Enable or disable subtitles                            | `subs=on`        |
 | lang    | Subtitle language (Filipino, English, Both, Automatic) | `lang=English`   |
-
----
-
-## 📸 Screenshots
-
-<!--
-Add screenshots here if available.
-Example:
-![Demo Screenshot](screenshots/demo.gif)
--->
 
 ---
