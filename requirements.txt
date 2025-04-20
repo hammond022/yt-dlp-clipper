@@ -1,0 +1,5 @@
+python>=3.8
+yt-dlp
+whisper
+ffmpeg-python
+torch
