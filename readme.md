@@ -81,3 +81,4 @@ Supports custom time ranges, video quality selection, and multiple subtitle lang
 | lang    | Subtitle language (Filipino, English, Both, Automatic) | `lang=English`   |
 
 ---
+❤H.
